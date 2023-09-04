@@ -1,4 +1,4 @@
-# **Live: [Contentful Portfolio]((https://react18-vite-contentful-portfolio.vercel.app/))**
+# **Live: [Contentful Portfolio](https://react18-vite-contentful-portfolio.vercel.app/)**
 
 ## Figma URL
 
